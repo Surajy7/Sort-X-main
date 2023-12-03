@@ -6,7 +6,7 @@ module.exports = {
       colors:{
         'dark-cyan' : '#176B87',
         'lightice' : '#DAFFFB'
-      }, 
+      },  
     }, 
   },
   plugins: [],
