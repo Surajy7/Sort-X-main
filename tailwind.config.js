@@ -7,7 +7,7 @@ module.exports = {
         'dark-cyan' : '#176B87',
         'lightice' : '#DAFFFB'
       },   
-    },  
+    },   
   },
   plugins: [], 
 }
